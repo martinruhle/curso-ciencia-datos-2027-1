@@ -1,0 +1,6 @@
+data/
+ckpt/
+output/
+*.csv
+*.parquet
+synthea-with-dependencies.jar
