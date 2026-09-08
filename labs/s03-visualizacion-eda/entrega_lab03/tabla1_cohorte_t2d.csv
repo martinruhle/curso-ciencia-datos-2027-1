@@ -1,0 +1,31 @@
+Variable,Faltantes,Total (n=395),F (n=213),M (n=182),SMD
+"Edad al diagnóstico, años, media (DE)",0,51.0 (11.8),51.8 (11.8),50.1 (11.7),0.145
+"Seguimiento tras el diagnóstico, días, media (DE)",0,1795.0 (801.6),1708.7 (763.9),1895.9 (834.4),-0.234
+"Colesterol total basal, mg/dL, media (DE)",0,182.7 (42.9),179.3 (41.3),186.7 (44.6),-0.172
+"Creatinina basal, mg/dL, mediana [IQR]",0,1.1 [0.9–1.3],0.9 [0.8–1.1],1.2 [1.1–1.4],-0.376
+"Frecuencia cardíaca basal, lpm, media (DE)",0,80.5 (11.5),79.7 (11.1),81.4 (11.8),-0.141
+"Glucosa basal, mg/dL, mediana [IQR]",0,83.8 [74.6–95.1],84.0 [75.3–95.7],83.5 [74.1–94.2],0.039
+"HDL basal, mg/dL, media (DE)",0,51.0 (11.2),53.4 (9.1),48.2 (12.7),0.469
+"HbA1c basal, %, media (DE)",0,7.2 (0.6),7.2 (0.6),7.2 (0.6),0.085
+"IMC basal, kg/m², mediana [IQR]",0,28.4 [27.7–30.1],28.3 [27.7–30.1],28.5 [27.7–30.1],-0.002
+"LDL basal, mg/dL, media (DE)",0,107.4 (44.0),103.2 (43.2),112.4 (44.4),-0.212
+"PA diastólica basal, mmHg, media (DE)",0,87.6 (15.2),87.3 (15.2),87.8 (15.4),-0.034
+"PA sistólica basal, mmHg, media (DE)",0,128.7 (19.3),129.0 (19.5),128.5 (19.2),0.027
+"Peso basal, kg, media (DE)",0,83.1 (10.9),77.3 (8.2),90.0 (9.7),-1.401
+"Talla basal, cm, media (DE)",0,169.6 (9.6),163.7 (6.6),176.5 (7.6),-1.799
+"Triglicéridos basales, mg/dL, mediana [IQR]",0,128.2 [114.5–140.5],125.9 [113.7–139.3],130.2 [115.0–144.3],-0.261
+"Encuentros previos al diagnóstico, n, mediana [IQR]",0,23.0 [15.5–31.0],26.0 [19.0–38.0],19.0 [12.0–26.0],0.29
+"Comorbilidades previas, n, media (DE)",0,9.7 (4.2),10.0 (3.7),9.4 (4.6),0.146
+"Raza, n (%)",0,,,,
+    asian,,21 (5.3),15 (7.0),6 (3.3),0.17
+    black,,25 (6.3),15 (7.0),10 (5.5),0.064
+    hawaiian,,7 (1.8),3 (1.4),4 (2.2),-0.059
+    native,,1 (0.3),1 (0.5),0 (0.0),0.097
+    other,,7 (1.8),3 (1.4),4 (2.2),-0.059
+    white,,334 (84.6),176 (82.6),158 (86.8),-0.116
+"Etnia, n (%)",0,,,,
+    hispanic,,52 (13.2),29 (13.6),23 (12.6),0.029
+    nonhispanic,,343 (86.8),184 (86.4),159 (87.4),-0.029
+"Fallecido durante el seguimiento, n (%)",0,,,,
+    No,,377 (95.4),200 (93.9),177 (97.3),-0.164
+    Sí,,18 (4.6),13 (6.1),5 (2.7),0.164
